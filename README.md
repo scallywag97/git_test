@@ -1,0 +1,1 @@
+This is Scallywag97's first time using Git and GitHub, how exciting!
